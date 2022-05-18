@@ -130,6 +130,18 @@ header .logo a img {
 
 }
 
+.login {
+
+    width: 600px;
+
+}
+
+.login label {
+
+    width: fit-content;
+
+}
+
 #servicios img {
 
     opacity: 1;
